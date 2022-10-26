@@ -16,3 +16,4 @@ I have also worked as a full-stack developer with the following technologies: PH
 
 ### :man_technologist: Some links:
 - https://dev.to/jgamaraalv
+- Email: hello@vequiato.dev
